@@ -1,0 +1,16 @@
+http://www.scipy-lectures.org/index.html
+
+https://github.com/rougier/neural-networks
+https://github.com/rougier/numpy-tutorial
+https://serialmentor.com/dataviz/index.html
+
+
+https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html#introduction
+
+https://github.com/bertvv/cheat-sheets/blob/master/docs/Statistics.md
+
+http://www.ilovestats.org/population-vs-sample/
+
+https://cheatsheets.quantecon.org/python-cheatsheet.html
+
+http://www.dannyblaker.com/fishinfordham/growth-hackers-statistics-cheatsheet
