@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "ISO-8859-1" standalone ="no"?>
+<vehicle>
+    <Twowheeler>
+	<Bike>Yamah FZ</Bike>
+	<Scooter> Activa</Scooter>
+    </Twowheelar>
+    <Fourwheeler>
+        <Car>Swift</Car>
+      	<MUV>XUV500</MUV>
+    </Fourwheeler>
+</vehicle>
