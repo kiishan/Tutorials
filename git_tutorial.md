@@ -9,6 +9,7 @@
     5. git push
     6. git pull
     7. git clone
+    8. git lfs
 
 ### Creating a project
 
@@ -68,6 +69,14 @@
 15. update local repo from remote repo
     - git pull
 
+16. upload large files
+    - git lfs install
+    - git track "*.caffemodel"
+    - git add .gitattributes
+    - git commit -m "commit"
+    - git push -u origin master
+
+    
 __Pretty much everything that we will use__
 
 
